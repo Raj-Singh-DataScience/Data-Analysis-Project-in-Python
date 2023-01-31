@@ -23,3 +23,9 @@ Finding 5 sales insights of sales for products:
 - Data Auditing - checking First five rows, Last first five rows, Null or Missing Values, Info of dataset, Descriptive Summary, Shape, Columns etc
 
 - EXPLORATORY Data Analysis - Finding sales insight, Ploting Graphs etc.
+
+## Screenshots of finding SALES TRENDS:
+
+![Screenshot - Sales Trends](https://user-images.githubusercontent.com/122977758/215870285-6bbfead8-3dc6-4fa2-8769-c44ed6ebca8a.png)
+
+
