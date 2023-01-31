@@ -15,3 +15,7 @@ Finding 5 sales insights of sales for products:
 - Stakeholders - Sales and Marketing Team, Customer Service Team, Data and Analytics Team, IT Team. 
 
 - Final Result - We have solved client queries and shared latest sales insights in order to support data-driven decision-making.
+
+- Data Gathering - Collecting data from Client and preparing an excel file to explore the data tables and doing data cleaning during this period as per need. 
+
+- Importing Data - importing the datasheet in Pandas.
