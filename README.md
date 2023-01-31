@@ -35,3 +35,6 @@ Finding 5 sales insights of sales for products:
 
 ## Screenshots of the most commonly used mode of shipment:
 ![Screenshot - Most preferred ship mode](https://user-images.githubusercontent.com/122977758/215870069-0fecc4e6-78b0-40dc-80ff-a8e382ec8081.png)
+
+## Screenshots of the most profitable categories and subcategories:
+![Screenshot - most profitable categories and subcategories](https://user-images.githubusercontent.com/122977758/215872936-a7bc7fac-9eeb-4997-80e2-b7f50548bfb1.png)
