@@ -30,4 +30,8 @@ Finding 5 sales insights of sales for products:
 ## Screenshots of Top 5 products by sales:
 ![Srceenshot - Top 5 products by sales](https://user-images.githubusercontent.com/122977758/215871188-5326b7ae-562c-48ea-a55e-a4535c862158.png)
 
+## Screenshots of 5 most selling products in terms of quantity:
+![Screenshot - 5 Most selling products by quantity](https://user-images.githubusercontent.com/122977758/215871634-9dc01041-4c9a-480e-a657-7af6c5366ec7.png)
+
+
 
