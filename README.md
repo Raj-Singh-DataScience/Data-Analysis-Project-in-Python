@@ -19,3 +19,7 @@ Finding 5 sales insights of sales for products:
 - Data Gathering - Collecting data from Client and preparing an excel file to explore the data tables and doing data cleaning during this period as per need. 
 
 - Importing Data - importing the datasheet in Pandas.
+
+- Data Auditing - checking First five rows, Last first five rows, Null or Missing Values, Info of dataset, Descriptive Summary, Shape, Columns etc
+
+- EXPLORATORY Data Analysis - Finding sales insight, Ploting Graphs etc.
