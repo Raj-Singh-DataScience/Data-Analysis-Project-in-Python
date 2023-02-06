@@ -24,7 +24,7 @@ Finding 5 sales insights of sales for products:
 
 - EXPLORATORY Data Analysis - Finding sales insight, Ploting Graphs etc.
 
-## Screenshots of finding SALES TRENDS (Jan 2019 - Dec 2022):
+## Screenshots of SALES TRENDS (Jan 2019 - Dec 2022):
 ![Screenshot - Sales Trends](https://user-images.githubusercontent.com/122977758/215870285-6bbfead8-3dc6-4fa2-8769-c44ed6ebca8a.png)
 
 ## Screenshots of Top 5 products by sales:
